@@ -23,7 +23,7 @@ function findBy(array, findFn) {
     if (findFn(array[i]) === true) {
       return findFn(array[i]);
     } else {
-      beak;
+      break;
     }
   }
 }
