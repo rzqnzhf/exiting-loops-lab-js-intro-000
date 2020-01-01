@@ -17,9 +17,3 @@ function keepGoing(array, changeValue, skipValue) {
   }
   return array;
 }
-
-
-
-
-
-
